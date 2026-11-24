@@ -4,12 +4,12 @@
 
 ### Featured: Dgtal Finance Manager
 
-Invoices, income and expenses, clients, projects, team and tax in one workspace, with a client portal, role-based access, an AI assistant and an Android app.
+Invoices, income and expenses, clients, projects, tasks, team and tax in one workspace, with a calendar of every deadline, role-based team access, a client portal and an AI assistant.
 
-[![Dgtal Finance Manager](https://raw.githubusercontent.com/dgtalgrow-web/dgtal-finance-manager/main/cover.jpg)](https://github.com/dgtalgrow-web/dgtal-finance-manager)
+[![Dgtal Finance Manager dashboard](https://raw.githubusercontent.com/dgtalgrow-web/dgtal-finance-manager/main/cover.jpg)](https://github.com/dgtalgrow-web/dgtal-finance-manager)
 
 - [Try the live demo](https://finance.dgtalgrow.com/) (one click, no password)
-- [Project page and screenshots](https://github.com/dgtalgrow-web/dgtal-finance-manager)
+- [Screenshots of every section](https://github.com/dgtalgrow-web/dgtal-finance-manager)
 - [Website](https://management.dgtalgrow.com/)
 - [Product Hunt](https://www.producthunt.com/products/dgtal-finance-manager) · [G2](https://www.g2.com/products/dgtal-finance-manager/reviews)
 
